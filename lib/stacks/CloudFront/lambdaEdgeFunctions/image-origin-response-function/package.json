@@ -1,0 +1,14 @@
+{
+  "name": "lambdaedgefunctions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "sharp": "^0.31.3"
+  },
+  "author": "",
+  "license": "ISC"
+}

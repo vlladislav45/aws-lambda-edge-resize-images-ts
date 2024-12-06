@@ -1,0 +1,16 @@
+!jest.config.js
+!test/**
+*.d.ts
+node_modules
+aws
+coverage
+.history
+.env
+
+# CDK asset staging directory
+.cdk.staging
+cdk.out
+/.env
+
+# Local tests
+local
