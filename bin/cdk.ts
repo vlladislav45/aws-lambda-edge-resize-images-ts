@@ -13,10 +13,10 @@ dotenv.config();
 export const envName = envNameResolver();
 
 /**
- * Vlad account
+ * author Vladislav
  */
 const env = {
-  account: '717034757322',
+  account: 'AWS_ID', //e.g. 823011557322
   region: 'us-east-1',
 };
 
